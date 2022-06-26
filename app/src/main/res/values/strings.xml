@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intend</string>
+    <string name="avatar">Аватарка</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="name2">Фамилия</string>
+    <string name="name3">Отчество</string>
+    <string name="done">Готово</string>
+    <string name="error">Не верные данные!</string>
+</resources>
